@@ -38,7 +38,6 @@ This repository is part of an ongoing journey to:
 - Build interview-ready problem-solving skills  
 - Develop clean, scalable coding habits  
 - Experiment with real-world patterns used in quant, trading, and systems roles  
-- Maintain a public record of technical growth  
 
 ---
 
