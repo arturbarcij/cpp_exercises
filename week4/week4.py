@@ -1,5 +1,5 @@
 #Download speed
-
+#
 n, m = [x for x in input().split()]
 computers = [n]
 
